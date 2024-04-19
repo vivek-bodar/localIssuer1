@@ -10,7 +10,7 @@
         {
             "id": "did:web:vivek-bodar.github.io:localIssuer1#did-communication",
             "type": "did-communication",
-            "serviceEndpoint": "http://192.168.1.8:8000",
+            "serviceEndpoint": "http://iata_issuer_agent:6032",
             "recipient_keys": [
               "did:web:vivek-bodar.github.io:localIssuer1#key-1"
             ],
@@ -26,7 +26,7 @@
             "id": "did:web:vivek-bodar.github.io:localIssuer1#key-1",
             "type": "Ed25519VerificationKey2018",
             "controller": "did:web:vivek-bodar.github.io:localIssuer1",
-            "publicKeyBase58": "DizjZfe5koE1GE3SLKrWuyxF6sk9jAXBnSJzrAkN4Cim"
+            "publicKeyBase58": "Ej3b9idKyreLLsatFmzzD7yG5xrQU5KT34qGFQyNKqBx"
         }
     ],
     "alsoKnownAs": [],
